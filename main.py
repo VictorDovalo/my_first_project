@@ -1,1 +1,2 @@
-print("Hello Wordl")phyton
+print("Hello Wordl")
+print("Bye Wordl")
